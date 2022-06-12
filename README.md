@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Daniel Ferrer. I'm Android & iOS Developer
+<!-- ### Hi there 👋 My name is Daniel Ferrer. I'm Android & iOS Developer -->
+
+![Header](./github-header-image.png)
 
 <!--
 **3pies/3pies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
